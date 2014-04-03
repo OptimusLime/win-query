@@ -1,0 +1,20 @@
+{
+  "name": "win-query",
+  "version": "0.0.1",
+  "main" : "lib/win-query.js",
+  "scripts" : [
+    "lib/win-query.js"
+  ],
+  "remotes" : [
+    "https://raw.github.com",
+    "https://raw.githubusercontent.com"
+  ],
+  "dependencies" : 
+  {
+  	"visionmedia/superagent" : "*"
+  },
+  "development" : {
+  	"optimuslime/win-utils" : "*",
+  	"optimuslime/win-backbone" : "*"
+  }
+}

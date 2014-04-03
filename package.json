@@ -1,0 +1,17 @@
+{
+  "name": "win-query",
+  "version": "0.0.1",
+  "main" : "lib/win-query.js",
+  "dependencies" : 
+  {
+  	"superagent" : "*"
+  },
+  "devDependencies" : {
+  	"win-utils" : "*",
+  	"win-backbone" : "*",
+  	"mocha" : "*",
+  	"should" : "*",
+  	"colors" : "*",
+  	"q" : "*"
+  }
+}
