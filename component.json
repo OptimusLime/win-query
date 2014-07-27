@@ -1,6 +1,6 @@
 {
   "name": "win-query",
-  "version": "0.0.1-3",
+  "version": "0.0.1-4",
   "main" : "lib/win-query.js",
   "scripts" : [
     "lib/win-query.js"
@@ -11,10 +11,10 @@
   ],
   "dependencies" : 
   {
-  	"visionmedia/superagent" : "*"
+  	"visionmedia/superagent" : "master"
   },
   "development" : {
-  	"optimuslime/win-utils" : "*",
-  	"optimuslime/win-backbone" : "*"
+  	"optimuslime/win-utils" : "master",
+  	"optimuslime/win-backbone" : "master"
   }
 }
